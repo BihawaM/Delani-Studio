@@ -214,3 +214,7 @@ h2, h3, h5{
     height: 100%;
 }
 
+.rowtext-center, p{
+    font-size: medium;
+}
+
